@@ -9,6 +9,8 @@ Va acontener todos los minijuegos que hagamos.
 La idea seria que haya un nivel como prueba de concepto.
 
 Cada juego deberá ser una carpeta, que tenga un componente de React que use directamente el juego.
+Luego vemos como importamos esos juegos, si al azar, o con un menu.
+pueden renderiazar su juego haciendo un bypass temporalmente de App.js
 
 ## La carpeta "views"
 
