@@ -8,6 +8,8 @@ A game for blind people
 Va acontener todos los minijuegos que hagamos.
 La idea seria que haya un nivel como prueba de concepto.
 
+Cada juego deberá ser una carpeta, que tenga un componente de React que use directamente el juego.
+
 ## La carpeta "views"
 
 Va a tener toda pantalla complementaria, como el titulo, opciones y demás.
